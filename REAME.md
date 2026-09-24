@@ -7,7 +7,7 @@ Programa desenvolvido em Python para calcular a média de duas notas e informar 
 
 - Python 
 
-## 🚀 Como Instalar e Executar
+## Como Instalar e Executar
 
 1. Instale o Python 3.
 2. Baixe ou clone o repositório.
